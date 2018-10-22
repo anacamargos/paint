@@ -1,6 +1,12 @@
 # Paint
 Trabalho desenvolvido para a disciplina Computação Gráfica
 
+### Objetivo
+
+Esse projeto consiste em um Paint que possibilita que o usuário desenhe retas e circunferências e execute outras operações envolvendo esses objetos.
+
+### Como rodar o código
+
 * Para a execução do código, rode o arquivo:
 `````
 TrabalhoCG.jar
