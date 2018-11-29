@@ -28,7 +28,7 @@ TrabalhoCG.jar
   
 * Algoritmos de Janela de Visualização (Recorte 2D):
   * Cohen-Sutherland
-  * Liagn-Barsky
+  * Liang-Barsky
 
 * Algoritmos de Preenchimento:
   * Boundary-Fill
